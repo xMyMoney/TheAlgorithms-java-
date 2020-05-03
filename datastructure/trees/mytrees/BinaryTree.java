@@ -1,7 +1,7 @@
 package datastructures.trees.mytrees;
 
 /**
- * 二叉树 左节点<根节点<友节点
+ * 二叉树 左节点<根节点<右节点
  */
 public class BinaryTree {
 
